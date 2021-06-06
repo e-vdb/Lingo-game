@@ -23,4 +23,11 @@ To play the game save the following files in the same directory.
 
 ## Interface
 
-![interface](https://user-images.githubusercontent.com/82372483/120931238-f3d1dd80-c6f0-11eb-856a-cda7016629e2.png)
+![interface](https://user-images.githubusercontent.com/82372483/120931807-85dae580-c6f3-11eb-8643-6035602924d9.png)
+
+
+### Example of game (French)
+
+![game3](https://user-images.githubusercontent.com/82372483/120931833-94c19800-c6f3-11eb-9137-db1cfed276a6.png)
+
+![game2](https://user-images.githubusercontent.com/82372483/120931844-9ab77900-c6f3-11eb-88f6-7ee6a1a6c137.png)
