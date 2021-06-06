@@ -1,3 +1,4 @@
+
 # Lingo-game
 
 ## Summary 
@@ -21,3 +22,5 @@ To play the game save the following files in the same directory.
 * ukenglish.txt : text file with English words (from http://www.gwicks.net/dictionaries.htm)
 
 ## Interface
+
+![interface](https://user-images.githubusercontent.com/82372483/120931238-f3d1dd80-c6f0-11eb-856a-cda7016629e2.png)
