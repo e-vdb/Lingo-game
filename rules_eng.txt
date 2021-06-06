@@ -1,0 +1,20 @@
+GAME GOAL
+
+Guess a 7 letters word within 6 attempts
+
+
+
+GAMEPLAY
+
+- A 7 letters word is randomly chosen.
+
+- The user enters a word.
+
+- The proposal is checked.
+
+- Colour meaning
+	° GREEN = correct letter and true position
+
+	° RED = correct letter but false position
+
+	° BLACK = wrong letter
