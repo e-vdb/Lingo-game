@@ -19,3 +19,5 @@ To play the game save the following files in the same directory.
 * lingo.py: Python script
 * dico.txt: text file with French words (from https://www.apprendre-en-ligne.net/pj/pendu/index.html )
 * ukenglish.txt : text file with English words (from http://www.gwicks.net/dictionaries.htm)
+
+## Interface
