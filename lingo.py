@@ -200,7 +200,7 @@ def newGame():
 def printRules():
     global ruleWindow
     ruleWindow=tk.Tk()
-    ruleWindow.title("Mastermind rules")
+    ruleWindow.title("LINGO rules")
  
     with open('rules_eng.txt') as f:
         gameRules=f.read()
