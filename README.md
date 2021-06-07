@@ -20,11 +20,16 @@ To play the game save the following files in the same directory.
 * lingo.py: Python script
 * dico.txt: text file with French words (from https://www.apprendre-en-ligne.net/pj/pendu/index.html )
 * ukenglish.txt : text file with English words (from http://www.gwicks.net/dictionaries.htm)
+* rules_eng.txt : plain text document that contains the rules of the game
 
-## Interface
+## Tkinter interface
+
+### Interface
 
 ![interface](https://user-images.githubusercontent.com/82372483/120931807-85dae580-c6f3-11eb-8643-6035602924d9.png)
 
+### Rules
+The rules of Mastermind can be displayed thanks to the menu *Rules* from the GUI.
 
 ### Example of game (French)
 
