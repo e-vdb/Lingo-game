@@ -28,6 +28,9 @@ To play the game save the following files in the same directory.
 
 ![interface](https://user-images.githubusercontent.com/82372483/120931807-85dae580-c6f3-11eb-8643-6035602924d9.png)
 
+### Language
+You can change the game language from the menu.
+
 ### Rules
 The rules of Mastermind can be displayed thanks to the menu *Rules* from the GUI.
 
