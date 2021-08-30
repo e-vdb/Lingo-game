@@ -198,10 +198,8 @@ def newGame():
     game()
 
 def printRules():
-    global ruleWindow
-    ruleWindow=tk.Tk()
+    ruleWindow=tk.Toplevel()
     ruleWindow.title("LINGO rules")
- 
     with open('rules_eng.txt') as f:
         gameRules=f.read()
     lab_Rule=tk.Label(ruleWindow,text=gameRules,fg="black", anchor="e", justify=tk.LEFT)
