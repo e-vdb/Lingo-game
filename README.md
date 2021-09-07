@@ -31,8 +31,9 @@ To play the game save the following files in the same directory.
 ### Language
 You can change the game language from the menu.
 
-### Rules
-The rules of Mastermind can be displayed thanks to the menu *Rules* from the GUI.
+### Help
+
+From the GUI you can read *How to play?* as well as copyright and license information.
 
 ### Example of game (French)
 
