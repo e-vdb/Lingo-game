@@ -21,6 +21,7 @@ To play the game save the following files in the same directory.
 * dico.txt: text file with French words (from https://www.apprendre-en-ligne.net/pj/pendu/index.html )
 * ukenglish.txt : text file with English words (from http://www.gwicks.net/dictionaries.htm)
 * rules_eng.txt : plain text document that contains the rules of the game
+* about.txt : plain text document that contains copyright and license information
 
 ## Tkinter interface
 
