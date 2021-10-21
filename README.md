@@ -41,3 +41,7 @@ From the GUI you can read *How to play?* as well as copyright and license inform
 ![game3](https://user-images.githubusercontent.com/82372483/120931833-94c19800-c6f3-11eb-9137-db1cfed276a6.png)
 
 ![game2](https://user-images.githubusercontent.com/82372483/120931844-9ab77900-c6f3-11eb-88f6-7ee6a1a6c137.png)
+
+## Tasks list
+- [x] Implement python script
+- [ ] Document code
